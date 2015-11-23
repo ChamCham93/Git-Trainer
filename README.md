@@ -1,16 +1,14 @@
-# Git Trainer
-Small fun activity to get beginners familiar with Git and Github
+# Chamodi Rathnasinghe
 
-#Activities
-1. Fork this repo
-2. Clone it to your workin environment
-3. Create a folder for yourself
-4. Create a README.md inclufing your details
-5. Commit the changes
-6. Push to your repo
-7. Create a Pull Request (PR)
+##Summary
+An ordinary human being with some computer science knowledge. Loves technology, nature and freedom. Open source contributor, struggling entrepreneur, crazy minded, adicted daydreamer.
 
-#Workshops
-| Workshop                               | Date          |
-| -------------------------------------- | ------------- |
-| GDG Sri Lanka Monthly Meetup Nov 2015  | 2015-11-23    |
+##Education
+* Primary : Kaluthara Balika National School
+* Secondary : Devi Balika Vidyalaya.
+* Tertiary : NSBM-School of Computing.
+
+##Social Media
+* [LinkedIn](http://www.linkedin.com/in/agentmilindu)
+* [Google+](https://plus.google.com/+MilinduSanojKumarage)
+* [Twitter](https://twitter.com/AgentMilindu)
